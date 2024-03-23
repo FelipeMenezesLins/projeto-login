@@ -1,7 +1,6 @@
 @charset "UTF-8";
 /*Configurações gerais*/
 
-@media screen and (orientation:landscape) {
     :root {
         --cor1:#BE1AF0;
         --cor2:#6752F0;
@@ -128,5 +127,4 @@
        border: 1px solid #BE1AF0;
     }
     
-}
 
